@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: Lab_1_python
+- file: 2_Introduction_to_Python_Code_Lab
+- file: 5_Linked_List_Lab
+- file: 6_Stack
+- file: 7_Queue
